@@ -19,8 +19,8 @@ MAX_USER_STT_BLOCKS = 10  # 10 аудиоблоков
 MAX_USER_TTS_SYMBOLS = 5_000  # 5 000 символов
 MAX_USER_GPT_TOKENS = 2_000  # 2 000 токенов
 
-LOGS = rf'{HOME_DIR}\logs.txt'  # файл для логов
-DB_FILE = rf'{HOME_DIR}\messages.db'  # файл для базы данных
+LOGS = f'{HOME_DIR}/logs.txt'  # файл для логов
+DB_FILE =f'{HOME_DIR}/messages.db'  # файл для базы данных
 SYSTEM_PROMPT = [{'role': 'system', 'text': 'Ты веселый собеседник. Общайся с пользователем на "ты". '
                                             'Поддерживай диалог.'
                                            }]  # список с системным промтом
