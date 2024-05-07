@@ -4,7 +4,7 @@ MAX_SYMBOLS_FOR_SESSION = 500
 IAM_TOKEN = 't1.9euelZqKns6ajp7OmcjHnYzKm5rPje3rnpWay5bMzY-Xm5PGnsnOjMiOm5jl9Pc2TRdO-e8QbVvo3fT3dnsUTvnvEG1b6M3n9euelZrHzZWJx5vPzJWWi4zPlsiSxu_8xeuelZrHzZWJx5vPzJWWi4zPlsiSxr3rnpWaj4qbjs3OkY-NlJrJnsaZzou13oac0ZyQko-Ki5rRi5nSnJCSj4qLmtKSmouem56LntKMng.gzkYGsitbx9aAzkq0tTQwK3YXJugHcLwYEKJnB5yeS25NLqDBxZilzh-cvX_Z3BkcAKVflHQVABbqOTYYZoYBA'
 FOLDER_ID = 'b1g728oi29cantfjoijl'
 
-HOME_DIR = '/home/student/finalProject'
+HOME_DIR = '/home/student/ya_gpt_project'
 
 MODEL_TEMPERATURE = 0.7
 
