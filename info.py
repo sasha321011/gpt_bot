@@ -1,14 +1,14 @@
 MAX_SYMBOLS = 250
 MAX_SYMBOLS_FOR_SESSION = 500
 
-IAM_TOKEN = 't1.9euelZqKns6ajp7OmcjHnYzKm5rPje3rnpWay5bMzY-Xm5PGnsnOjMiOm5jl9Pc2TRdO-e8QbVvo3fT3dnsUTvnvEG1b6M3n9euelZrHzZWJx5vPzJWWi4zPlsiSxu_8xeuelZrHzZWJx5vPzJWWi4zPlsiSxr3rnpWaj4qbjs3OkY-NlJrJnsaZzou13oac0ZyQko-Ki5rRi5nSnJCSj4qLmtKSmouem56LntKMng.gzkYGsitbx9aAzkq0tTQwK3YXJugHcLwYEKJnB5yeS25NLqDBxZilzh-cvX_Z3BkcAKVflHQVABbqOTYYZoYBA'
-FOLDER_ID = 'b1g728oi29cantfjoijl'
+IAM_TOKEN = ''
+FOLDER_ID = ''
 
 HOME_DIR = '/home/student/ya_gpt_project'
 
 MODEL_TEMPERATURE = 0.7
 
-TOKEN = "6540713603:AAExQI3nPP-zan2D8IHcnD415mxnsT-cv5E"  # token телеграм-бота
+TOKEN = ""  # token телеграм-бота
 
 MAX_USERS = 3  # максимальное кол-во пользователей
 MAX_GPT_TOKENS = 120  # максимальное кол-во токенов в ответе GPT
